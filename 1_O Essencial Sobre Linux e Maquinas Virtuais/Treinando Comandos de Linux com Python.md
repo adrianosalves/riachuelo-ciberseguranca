@@ -1,3 +1,5 @@
+Basic - Princípios Básicos
+
 Desafio
 
 Na loja de roupas "Fashion Terminal", a equipe utiliza um sistema Linux para organizar o estoque e registrar vendas. Certo dia, a gerente percebeu que muitos funcionários têm dúvidas sobre comandos básicos do terminal, especialmente ao listar arquivos de diferentes departamentos. Para ajudar no treinamento, ela decidiu criar um simulador que recebe o nome de um comando Linux e retorna sua descrição funcional, facilitando o aprendizado dos colaboradores. Sua tarefa é implementar um programa que, ao receber o nome de um comando Linux comum, retorne uma breve explicação sobre sua utilidade. Caso o comando não seja reconhecido, o programa deve informar que o comando é invalido.
